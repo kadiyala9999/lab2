@@ -10,6 +10,7 @@ on:
       custom_message:
         description: "Enter a custom message"
         type: string
+        default: Hello
         required: true                        #end
 
 jobs:
